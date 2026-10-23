@@ -1,2 +1,3 @@
 # exemplo-git-parte2
-Texto modificado diretamente na branch principal main.
+ 
+ Texto moficado dentro  da branch  minha-solucao
